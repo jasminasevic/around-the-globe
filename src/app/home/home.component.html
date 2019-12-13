@@ -1,1 +1,28 @@
-<p>home works!</p>
+<div class="container">
+    <div>
+        <br/>
+        <br/>
+        <h1 class="my-4">World Travel Destinations, for People Who Love Adventure!</h1>
+        <h4 class="my-4">Around the Globe is an award-winning travel blog featuring travel tips, packing guides, articles and photography
+            from around the world.</h4>
+
+        <br/>
+        <br/>
+    </div>
+    <div class="row">
+        <div class="col-lg-4 col-sm-6 portfolio-item" *ngFor="let blog of gallery | slice:0:3">
+            <div class="card h-100" [@photosAnimation]>
+                <a href="{{blog.images.src}}">
+                    <img class="card-img-top" src='{{blog.images.src}}' alt='{{blog.images.alt}}' />
+                </a>
+                <div class="card-body">
+                    <h4 class="card-title">
+                        {{blog.title}}
+                    </h4>
+                    <p class="card-text">{{blog.description}}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<br/>
