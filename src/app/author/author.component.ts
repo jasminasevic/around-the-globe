@@ -2,9 +2,9 @@ import { Component, OnInit } from '@angular/core';
 import { trigger, state, transition, query, stagger, animate, style } from '@angular/animations';
 
 @Component({
-  selector: 'app-about',
-  templateUrl: './about.component.html',
-  styleUrls: ['./about.component.css'],
+  selector: 'app-author',
+  templateUrl: './author.component.html',
+  styleUrls: ['./author.component.css'],
   animations: [
 
     trigger('textAnimation', [
@@ -19,9 +19,9 @@ import { trigger, state, transition, query, stagger, animate, style } from '@ang
 
   ]
 })
-export class AboutComponent implements OnInit {
+export class AuthorComponent implements OnInit {
 
-  src = 'assets/img/featured.jpg';
+  src = 'assets/img/author.jpg';
   alt = 'Author';
 
   constructor() { }

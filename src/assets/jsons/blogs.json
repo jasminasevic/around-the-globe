@@ -1,0 +1,101 @@
+[
+    {
+        "id": 8,
+        "category": "Europe",
+        "title": "A Weekend in Paris",
+        "images": {
+            "src": "assets/img/paris.jpg",
+            "alt": "Paris"
+        },
+        "description": "There is so much truth to that popular Audrey Hepburn quote, 'Paris is always a good idea.' The question is, what do you do if you only have 48 hours?",
+        "text": "There is so much truth to that popular Audrey Hepburn quote, 'Paris is always a good idea.' For those planning a stopover in Paris as part of a larger European trip or maybe just a long weekend, the question is, what do you do if you only have 48 hours? My family and I did just this a few weeks ago and planned out a perfect two-day Paris travel diary. With each visit I make here, I fall more in love with the city. One of my favorite things about being here is that you don’t need to plan every minute of every day, rather you can simply wander around, get a bit lost and discover a new part of the city just a beautiful and charming as the parts you’ve already visited. Seriously, Paris, how do you do it? But I have my favourites, and this is how I chose to spend my 48 hours."
+    },
+    {
+        "id": 9,
+        "category": "South America",
+        "title": "Rio de Janeiro",
+        "images": {
+            "src": "assets/img/rio-de-janeiro.jpg",
+            "alt": "Rio de Janeiro"
+        },
+        "description": "The bustling city of Rio de Janeiro has been one of Brazil’s most popular and frequented tourist destinations for decades.",
+        "text": "The bustling city of Rio de Janeiro has been one of Brazil’s most popular and frequented tourist destinations for decades. Its vibrant city centre is bursting with culture and pulsating with a deep sense of history and heritage. Rio, as it is commonly known, is the second largest city in Brazil and the third largest metropolis in the whole of South America. It is the most visited city in the Southern Hemisphere, which is no mean feat. This makes for an impressive, memorable attraction for visitors from all over the world."
+    },
+    {
+        "id": 14,
+        "category": "Europe",
+        "title": "Best Things to Do in Seville",
+        "images": {
+            "src": "assets/img/catedral-sevilla.jpg",
+            "alt": "Seville"
+        },
+        "description": "Whether you're interested in tapas or history, there's no chance you'll get bored in this Andalusian city.",
+        "text": "This southern Spanish capital is famous for its historic churches and palaces, Moorish buildings, flamenco dancing, and more. Whether you're interested in tapas or history, there's no chance you'll get bored in this Andalusian city. Some cities blast you away, others slowly win you over. Seville disarms and seduces you. Its historic centre, lorded over by a colossal Gothic cathedral, is an intoxicating mix of resplendent Mudéjar palaces, baroque churches and winding medieval lanes. Flamenco clubs keep the intimacy and intensity of this centuries-old tradition alive whilst aristocratic mansions recall the city’s past as a showcase Moorish capital and, later, a 16th-century metropolis rich on the back of New World trade."
+    },
+    {
+        "id": 15,
+        "category": "Asia",
+        "title": "Top Things You Must Do in Delhi",
+        "images": {
+            "src": "assets/img/new-delhi.jpg",
+            "alt": "New Delhi"
+        },
+        "description": "Whether you’re a veteran to the city or only visiting for a few days, here are some things to do in Delhi that you shouldn’t miss.",
+        "text": "Delhi – a city of djinns and history, is one of the oldest inhabited cities in the world. From the glittering Mughal minarets to the orderly structure of colonial New Delhi, the city has been built and rebuilt several times over. This history is evident in every nook and corner, and it’s here where four-lane highways open up to centuries-old ruins. The rich and colourful past, coupled with a new, thriving culture brought in by migrants from all around the world, gives Delhi an identity that is uniquely its own. Whether you’re a veteran to the city or only visiting for a few days, here are some things to do in Delhi that you shouldn’t miss: 1. Explore Old Delhi on foot. 2. Go for an early-morning run at Lodhi Gardens. 3. Stroll down Rajpath, the country’s seat of power. 4. Spend a day at Humayun’s Tomb. 5. Eat, Drink and Shop at Paharganj. 6. Listen to the qawwali at Nizamuddin Dargah. 7. Party it up at Hauz Khas Village. "
+    },
+    {
+        "id": 20,
+        "category": "Europe",
+        "title": "The Ultimate Amsterdam Travel Guide",
+        "images": {
+            "src": "assets/img/amsterdam.jpg",
+            "alt": "Amsterdam"
+        },
+        "description": "Amsterdam is the capital of the Netherlands, and one of the most popular tourist destinations in all of Europe.",
+        "text": "Amsterdam is the capital of the Netherlands, and one of the most popular tourist destinations in all of Europe. The city is well-known for its past, the elaborate canal system and the architecture of their iconic, narrow houses. Amsterdam offers way more than just cheap thrills! You can wander the sidewalks (by foot, or more popularly, by bike) and explore the Old Centre, Red Light, Dam Square, Grachtengordel and Museum districts. Use my travel tips from this ultimate Amsterdam travel guide to plan your trip to the Netherlands!"
+    },
+    {
+        "id": 16,
+        "category": "Europe",
+        "title": "Incredible Places to Visit in Moscow",
+        "images": {
+            "src": "assets/img/moscow.jpg",
+            "alt": "Moscow"
+        },
+        "description": "Moscow Travel Guide including how to get around, where (and what!) to eat and the top things to do in Moscow.",
+        "text": "Russia is a curiosity among travelers. Images from the Red Square and St Basil’s Cathedral have long been a draw-card for visitors and the often dark dramatizations in movies have only served to pique people’s interest all the more. As it becomes (marginally!) easier to visit this secretive nation, more and more people are getting the chance to discover all the incredible places to visit in Moscow, Russia’s capital along with its second most visited city of St Petersburg, and we’ve put together this Moscow Travel Guide including how to get around, where (and what!) to eat and the top things to do in Moscow to get your Russian odyssey off to a great start."
+    },
+    {
+        "id": 17,
+        "category": "Australia",
+        "title": "Best Things to Do in Sydney",
+        "images": {
+            "src": "assets/img/sydney.jpg",
+            "alt": "Sydney, New South Wels"
+        },
+        "description": "Sitting on the edge of the world, Sydney is heralded as one of the world's greatest cities for a reason.",
+        "text": "Sitting on the edge of the world, Sydney is heralded as one of the world's greatest cities for a reason. Located in southeastern Australia, the capital of New South Wales plays host to the photogenic Sydney Harbour (the world's largest natural harbor), the iconic Sydney Opera house, sun-soaked beaches, a vibrant art scene and some of the best restaurants on earth. 'Travelers often mistake Sydney as just a stopover city, thinking they only need a couple of days to see it all,' Gwen Leung, a consultant at Charlotte Travel boutique travel agency, tells CNN Travel. 'There's much more to Sydney than just Bondi Beach and the Opera House. You can explore New South Wales, visit vineyards, stay on the islands and even go to the Blue Mountains (to the west) for hiking in the summer or skiing in the winter.' In other words: a weekend won't be enough. Need help narrowing down the itinerary? This shortlist of things to do and see in Sydney should point you in the right direction."
+    },
+    {
+        "id": 18,
+        "category": "Europe",
+        "title": "Welcome to Belgrade",
+        "images": {
+            "src": "assets/img/belgrade-fortress.jpg",
+            "alt": "Belgrade Fortress"
+        },
+        "description": "Outspoken, adventurous, proud and audacious: Belgrade is by no means a 'pretty' capital, but its gritty exuberance makes it one of Europe's most happening cities.",
+        "text": "Outspoken, adventurous, proud and audacious: Belgrade ('White City') is by no means a 'pretty' capital, but its gritty exuberance makes it one of Europe's most happening cities. While it hurtles towards a brighter future, its chaotic past unfolds before your eyes: socialist blocks are squeezed between art nouveau masterpieces, and remnants of the Habsburg legacy contrast with Ottoman relics and socialist modernist monoliths. This is where the Sava and Danube Rivers kiss, an old-world culture that at once evokes time-capsuled communist-era Yugoslavia and new-world, EU-contending cradle of cool."
+    },
+    {
+        "id": 21,
+        "category": "North America",
+        "title": "Miami Travel Tips for Your Next Vacation",
+        "images": {
+            "src": "assets/img/miami.jpg",
+            "alt": "Miami"
+        },
+        "description": "Miami can be a tough puzzle to figure out. But with a few key tips and tricks, you’ll sidestep many of the traps.",
+        "text": "Miami can be a tough puzzle to figure out. But with a few key tips and tricks, you’ll sidestep many of the traps 305 rookies often find themselves falling into. The right information can help you avoid nauseating restaurants, underwhelming clubs and getting ripped off in various ways. Instead, with our help, you’ll be eating at the best restaurants in Miami, dancing at the best South Beach clubs and saving some cash at one of the many free things to do in Miami. Act like a local; have fun like a tourist."
+    }
+]
