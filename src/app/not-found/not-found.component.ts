@@ -7,6 +7,9 @@ import { Component, OnInit } from '@angular/core';
 })
 export class NotFoundComponent implements OnInit {
 
+  src = 'assets/img/around-the-globe-travel.jpg';
+  alt = 'Contact us';
+
   constructor() { }
 
   ngOnInit() {

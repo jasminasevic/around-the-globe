@@ -1,1 +1,21 @@
-<p>not-found works!</p>
+<div class="container">
+
+    <h1 class="my-4">Page not found</h1>
+
+    <div class="row">
+        <div class="col-lg-6">
+            <br/>
+            <p>
+                Sorry! That page doesn't seem to exist.
+            </p>
+            <hr>
+            <p>
+                <button class="btn btn-primary" routerLink="/blog">Try to find another topic</button>
+            </p>
+            <p>Or contact us via info@aroundtheglobe.com</p>
+        </div>
+        <div class="col-lg-6">
+            <img class="img-fluid rounded mb-4" [attr.src]="src" [attr.alt]="alt" />
+        </div>
+    </div>
+</div>

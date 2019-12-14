@@ -1,0 +1,25 @@
+<div class="container">
+
+    <h1 class="my-4">{{blog.title}}</h1>
+
+    <div class="row">
+        <div class="col-lg-6">
+            <p>
+                {{blog.description}}
+            </p>
+            <hr>
+            <p>
+                {{blog.text}}
+            </p>
+            <p>
+                <button class="btn btn-primary" routerLink="/blog">Find more stories</button>
+            </p>
+        </div>
+        <div class="col-lg-6">
+            <a href="{{blog.images.src}}">
+                <img class="img-fluid rounded mb-4" src='{{blog.images.src}}' alt='{{blog.images.alt}}' />
+            </a>
+        </div>
+    </div>
+    <br/>
+</div>

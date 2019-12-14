@@ -38,7 +38,7 @@ export class GalleryComponent implements OnInit {
   ngOnInit() {
     this.service.dohvatiGallery().subscribe(
       response => {
-        console.log(response);
+        //console.log("Iz gallery componente: " + response);
         this.gallery = response;
       },
       error => {
