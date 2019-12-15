@@ -32,17 +32,13 @@ export class BlogComponent implements OnInit {
 
   ngOnInit() {
     const id = +this.route.snapshot.params['id'];
-    // this.single_blog = this.GalleryService.getSingleBlog(id);
-    // console.log(this.single_blog);
 
     this.service.dohvatiGallery().subscribe(
       response => {
         const result = response as Blog[];
         const bl = result.find(p => p.id === id);
-        // console.log("text je " + bl);
 
         if (!bl) {
-          console.log("kjcnakncaks")
           return this.router.navigate(['/not-found']);
         }
 
